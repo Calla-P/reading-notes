@@ -21,8 +21,8 @@
     
   # **Cultivating My Belief**
    ### 1.Create morning mantra such as:
-       1."I will be an amazing and desireable software developer. I consistently put in qaulity effort." 
-       2."I believe I will improve as a software developer given time, attention, and access to resources."
+     1."I will be an amazing and desireable software developer. I consistently put in qaulity effort." 
+     2."I believe I will improve as a software developer given time, attention, and access to resources."
    ### 2. Name the fixed mindset voice, address it gently, and dismiss. Repeat as neccissary!
    ### 3. Stay engaged with the Code Fellows community.
    ### 4.Be aware of my ques and create cravings to build belief for a routine of growth habits.
