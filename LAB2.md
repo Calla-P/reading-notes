@@ -13,7 +13,7 @@ No, it does not. Many people do have a preference.
 Yes. 
 
 *Why?*  
-It will allow you to get to your desired out put with more efficiency and clarity.
+It will allow you to get to your desired output with more efficiency and clarity.
 
 
 *Do text editors help insure you are making proper form and following the building rules?*    
