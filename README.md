@@ -1,13 +1,14 @@
 # **Growth Mindset**
 
-  ### *Do you believe people can change?*
-  ### *Do you believe you can change?*
-  ### *What will be created to afford these changes?*
+  ### Do you believe people can change?  
+  ### Do you believe you can change?  
+  ### What will be created to afford these changes?  
   
   
   
   Hello, My name is Paula. I live in Tacoma, Wa. I am 27 years young, Costa Rican, queer, and motivated to see this through. I interpeurt the growth mindset as a filter in which my life can play out. The growth mindset states that the way you think about the effort you put into things or stress you experience can shape the life you get to lead. 
-  <br>
+ 
+ 
   Your mindset is your internal story as stated in 
   *[The Happiness Lab](https://www.pushkin.fm)*.
   <br>
