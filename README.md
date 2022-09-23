@@ -13,3 +13,4 @@
 - [Text Editors](102/texteditor.md)
 - [Terminal Cheat Sheet](102/cheatsheet.md)
 - [Controls, Git, Git Hub](102/class3.md)
+- [White Boarding, HTML,Semantics](102/html.md)
