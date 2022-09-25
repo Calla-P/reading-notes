@@ -14,3 +14,6 @@
 - [Terminal Cheat Sheet](102/cheatsheet.md)
 - [Controls, Git, Git Hub](102/class3.md)
 - [White Boarding, HTML,Semantics](102/html.md)
+- [CSS](102/css.md)
+- [Java Script](102/javascript.md)
+- [Functions](102/javascript-funtions.md)

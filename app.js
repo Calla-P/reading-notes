@@ -20,7 +20,7 @@ let any = prompt("Do you eat fresh?");
 console.log('Keep it up,' + username);
 
 // let yes = prompt("You are awesome, keep it up");
-let words;
+// let words;
 
 // let yes = "Stay Fresh!";             
 // let no = "'Fresh eats miss you too!'"; 
