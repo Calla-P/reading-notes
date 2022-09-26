@@ -5,7 +5,6 @@
 
   Here is a collection of my learning notes. Thank you for your precious time and sip your water for me! :)
 
- 
  Table of Contents
 
 - [Growth Mindest](102/growthmindset.md)
@@ -17,3 +16,4 @@
 - [CSS](102/css.md)
 - [Java Script](102/javascript.md)
 - [Functions](102/javascript-funtions.md)
+- [Loopty Loops](102/loops-javascript.md)

@@ -19,6 +19,18 @@ if(time <= 11){
 let any = prompt("Do you eat fresh?");
 console.log('Keep it up,' + username);
 
+
+
+let userChoice = prompt('Veggies or Fruit');
+
+if (userChoice.toLowerCase() == 'Veggies'); {
+    document.write('<<< You chose Veggies, Yum!')
+} else if (userChoice.
+toLowerCase() == 'fruit');{
+    document.write ('<<< You chose Fruit, my favorite too!'); 
+} else {
+    document.write( What do you eat?);
+}
 // let yes = prompt("You are awesome, keep it up");
 // let words;
 
