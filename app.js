@@ -1,7 +1,8 @@
 
-
-let username = prompt('What is your name?');
-console.log('Hello, ' + username);
+function askName(){
+    let username = prompt('What is your name?');
+    console.log('Hello, ' + username);  
+}
 
 let time = prompt('What hour is it? (0-23)');
 let message;
@@ -23,31 +24,11 @@ console.log('Keep it up,' + username);
 
 let userChoice = prompt('Veggies or Fruit');
 
-if (userChoice.toLowerCase() == 'Veggies'); {
+if (userChoice.toLowerCase() == 'veggies') {
     document.write('<<< You chose Veggies, Yum!')
 } else if (userChoice.
-toLowerCase() == 'fruit');{
-    document.write ('<<< You chose Fruit, my favorite too!'); 
+toLowerCase() == 'fruit') {
+    document.write ('<<< You chose Fruit, my favorite too!');
 } else {
-    document.write( What do you eat?);
+    document.write( 'What do you eat?');
 }
-// let yes = prompt("You are awesome, keep it up");
-// let words;
-
-// let yes = "Stay Fresh!";             
-// let no = "'Fresh eats miss you too!'"; 
-
-// if(yes = {
-    // words = "You are awesome, keep it up!");
-// if(no = {
-    // words = "You are awesome and fresh veggies miss you.";
-
-//  yes = prompt ('You are awesome keep it up');
-// document.write('You are awesome. Keep it up.' + username );
-
-
-
-
-
-// look for the "<h2><script src="app.js"></script></h2>" on line 20 in the HTML, this is where the message will write too!
-// document.write('Hello ' + username + '! ' + message);
