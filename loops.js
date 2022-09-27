@@ -6,7 +6,7 @@ function guessANumber() {
     while (answer != 5) {
         answer = prompt('Guess a number between 1-10');
         if (answer !=5) {
-            alert('Try again!');
+            alert('Give it another go!');
         } else {
             alert('You are fantastico!');
         }
