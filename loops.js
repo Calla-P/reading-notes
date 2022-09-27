@@ -19,11 +19,12 @@ function displayRating() {
     let output = '';
     let times = prompt('from 1-5, how many times do you go to the grocery in a week?');
     for(let i = 0; i < times; i++){
-        output += "<img class='grocery store' src='grocerystore.jpeg'/>";
+        output += "<img class='grocery-store' src='grocerystore.jpeg'/>";
     }
 
     return document.write(output);
 }
 
-guessANumber();
+// guessANumber();
 
+// displayRating();
