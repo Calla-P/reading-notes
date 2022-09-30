@@ -6,7 +6,8 @@
 2. In Markdown Heading level 3, how many # are needed?  
    *3*
 3. How is heading level 3 typed out in Markdown?
-###heading level 3 with a space between # & h
+
+### Heading level 3 with a space between # & h
 
 ### Heading Best Practices
 
