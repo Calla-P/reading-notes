@@ -2,10 +2,10 @@
 
 ## Reading Notes
 
-*Compose a short poem describing how HTTP sends data between computers*.
+**Compose a short poem describing how HTTP sends data between computers**.
 
-I once met a lofty lady who needed info daily.   
-So she typed as a client ,her request, she was a riot. 
+I once met a lofty lady who needed info daily.  
+So she typed as a client ,her request, she was a riot.  
 So the server would send back, sending back it never lacked.  
 Crossing time and connection to find her IP,  
 giving her the information she seeks.  
@@ -84,7 +84,7 @@ What is JavaScript?
 
 **Describe 2 things that require JavaScript in the Browser**?
 
-- 
+- Java Script is required when you want *interactivity* or *logic* on your webpage. Js is required for a *dynamic* page.
 
 **How can you add JavaScript to an HTML document**?
 
