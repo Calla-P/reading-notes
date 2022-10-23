@@ -1,5 +1,7 @@
 # Class 3
 
+This matters because we are learning styling, how to ask user questions. 
+
 ## Learn HTML
 
 **When should you use an unordered list in your HTML document?**
