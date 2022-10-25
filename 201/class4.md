@@ -1,5 +1,7 @@
 # Class 04
 
+This topic matters because we will be usuing hyperlinks often id imagine and knowing how to incorporate them smoothly is foundational. Css is the money maker so it feels best to soak up as much information as possible.  
+
 ## Learn HTML
 
 ***Creating hyperlinks***
@@ -64,3 +66,10 @@
 	- stronger communication between developers.  
 	- Higher code quality.  
 	- expedited learning.  
+
+
+## Things I want to know more about.  
+
+	How to pair program.
+
+	When to use absolute or fixed. 
