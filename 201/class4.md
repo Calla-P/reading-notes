@@ -1,6 +1,5 @@
 # Class 04
 
-
 ## Learn HTML
 
 ***Creating hyperlinks***
@@ -23,7 +22,7 @@
 
 **What is meant by “normal flow”?**
 
-	It I the way blocks and elements are showed on a page before changes are made to a given layout. 
+	It means the way blocks and elements are showed on a page before changes are made to a given layout. 
 
 **What are a few differences between block-level and inline elements?**
 
@@ -33,7 +32,7 @@
 
 **___ positioning is the default for every html element.**
 
-	Static 
+    Static 
 
 **Name a few advantages to using absolute positioning on an element.**
 
@@ -53,7 +52,6 @@
 
 	An invocation of a function is a way to say to do what we declare.
 
-
 **What is the difference between a parameter and an argument?**
 
 	Parameter is a variable made in function declaration. The argument is the value of the variable that get passed to the function.  
@@ -62,4 +60,7 @@
 
 **Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.**
 
-	More effecient work, stronger communication between developers, Higher code quality, expedited learning.
+	-More effecient work.  
+	- stronger communication between developers.  
+	- Higher code quality.  
+	- expedited learning.  
