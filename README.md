@@ -7,7 +7,9 @@
 
  **Table of Contents**
 
-### 102 Notes
+# Reading Notes at Code Fellows 2022 -2023
+
+### Code 102 - Intro to Software Development
 
 - [Growth Mindest](102/growthmindset.md)
 - [Mark Down Overview](102/mdoverveiw.md)
@@ -20,7 +22,7 @@
 - [Functions](102/javascript-funtions.md)
 - [Loopty Loops](102/loops-javascript.md)
 
-### 201 Notes
+### Code 201 - Foundations of Software Development
 
 - [Class 1](./201/class1.md)
 - [Class 2](./201/class2.md)
@@ -38,3 +40,26 @@
 - [Class 14](./201/class14.md)
 - [Class 15](./201/class15.md)
 - [Things I want to know](./201/thingtoknow.md)
+
+### Code 301 - Intermediate Software Development
+
+- [Class 1](./301/class1.md)
+- [Class 2](./301/class2.md)
+- [Class 3](./301/class3.md)
+- [Class 4](./301/class4.md)
+- [Class 5](./301/class5.md)
+- [Class 6](./301/class6.md)
+- [Class 7](./301/class7.md)
+- [Class 8](./301/class8.md)
+- [Class 9](./301/class9.md)
+- [Class 10](./301/class10.md)
+- [Class 11](./301/class11.md)
+- [Class 12](./301/class12.md)
+- [Class 13](./301/class13.md)
+- [Class 14](./301/class14.md)
+- [Class 15](./301/class15.md)
+- [Class 16](./301/class16.md)
+- [Class 17](./301/class17.md)
+- [Class 18](./301/class18.md)
+
+### Code 401 - Advanced Software Development
