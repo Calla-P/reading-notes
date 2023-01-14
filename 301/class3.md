@@ -48,7 +48,9 @@ This is to adds the other veggie into the color array.
 
 ***Give an example of using the spread operator to combine two objects into one.***
 
-Let’s say you have person 1 and person 2, we name the city they live , age, and what they are passionate about. We can then use a spread operator to make these two objects into a combinedPerson that list out person 1, 2, and how ever many more objects. 
+Let’s say you have person 1 and person 2, we name the city they live , age, and what they are passionate about. We can then use a spread operator to make these two objects into a combinedPerson that list out person 1, 2, and how ever many more objects.
+
+**Somethings here were found via Chatgpt**
 
 ## Videos
 
