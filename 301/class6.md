@@ -55,6 +55,8 @@ Faster knowledge transfer, it has helped me to hear someone else share how they 
 
 Typically you have the driver and navigator. One is physically typing the code while the other is giving direction for the person who is physically driving.  
 
+**Most answers were found on Chatgpt version January 9th**
+
 ### Things I want to know …
 
 Are there API’s for just about everything that is considered data?
