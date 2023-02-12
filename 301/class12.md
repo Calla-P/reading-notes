@@ -69,4 +69,4 @@
 ### Things I to know more about:
 
     How does the sever understand what the client is getting wrong?
-    Are these code universal?
+    Are these codes universal?
