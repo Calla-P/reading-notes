@@ -2,7 +2,7 @@
 
 *Reading*
 
-	** This is important because understanding best practices will allow us to build efficient habits**
+	**This is important because understanding best practices will allow us to build efficient habits**
 
 ## CRUD Basics
 
